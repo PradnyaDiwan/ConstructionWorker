@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CalculationOfWorkerWagesTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-08T11:42:41" hostname="LAPTOP-OGE5MTMG" time="0.209">
+  <properties/>
+  <testcase name="shouldCheckIfTotalAmountPaidIsNotEqualToFirstWorkerWagesPlusSecondWorkerWages()" classname="org.example.CalculationOfWorkerWagesTest" time="0.199"/>
+  <testcase name="shouldCheckIfTotalAmountPaidIsEqualToFirstWorkerWagesPlusSecondWorkerWages()" classname="org.example.CalculationOfWorkerWagesTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
